@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🌊 on 潮边相簿</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in 🌊 on 潮边相簿</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hannahl271@icloud.com (潮潮)</managingEditor>
+    <webMaster>hannahl271@icloud.com (潮潮)</webMaster>
+    <copyright>© 潮潮</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cats</title>
+      <link>//localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Dogs</title>
+      <link>//localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/animals/dogs/</guid><media:content url="//localhost:1313/animals/dogs/DSCF0052_hu00b0dd14342c80eaf8f701765e15c2d2_9339330_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/animals/dogs/DSCF0052_hu00b0dd14342c80eaf8f701765e15c2d2_9339330_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

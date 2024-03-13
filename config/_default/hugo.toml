@@ -1,0 +1,48 @@
+copyright = "© 潮潮"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Europe/Berlin"
+timeout = "120s"
+title = "潮边相簿"
+
+[params]
+  defaultTheme = "dark"
+  description = "如你所见，这是我所见的世界"
+  title = "潮边相簿"
+  [params.author]
+    email = "hannahl271@icloud.com"
+    name = "潮潮"
+  # [params.socialIcons]
+  #   mastodon = "https://www.facebook.com/"
+  #   facebook = "https://www.facebook.com/"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+[module]
+  [module.hugoVersion]
+    min = "0.113.0"
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[menu]
+  [[menu.footer]]
+    name = "blog"
+    url = "https://blog.hannahlin.me"
+    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
