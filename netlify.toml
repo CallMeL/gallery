@@ -1,11 +1,6 @@
 [build.environment]
-  HUGO_VERSION = "0.112.0"
-  NODE_VERSION = "20"
+  HUGO_VERSION = "0.113.0"
 
 [build]
-  command = "npm run build"
+  command = "hugo --gc --minify"
   publish = "public"
-
-[dev]
-  framework = "hugo"
-  targetPort = 3000
