@@ -8,7 +8,7 @@ timeout = "120s"
 title = "潮边相簿"
 
 [params]
-  timeout = "120s"
+  timeout = "30s"
   defaultTheme = "dark"
   description = "如你所见，这是我所见的世界"
   title = "潮边相簿"
@@ -30,7 +30,7 @@ title = "潮边相簿"
   [imaging.exif]
     disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription"
+    includeFields = "ImageDescription|Orientation"
 
 [module]
   [module.hugoVersion]
