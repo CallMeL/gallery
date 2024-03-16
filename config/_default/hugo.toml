@@ -4,11 +4,10 @@ disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
-timeout = "120s"
+timeout = "120000000s"
 title = "潮边相簿"
 
 [params]
-  timeout = "30s"
   defaultTheme = "dark"
   description = "如你所见，这是我所见的世界"
   title = "潮边相簿"
