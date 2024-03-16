@@ -1,14 +1,17 @@
 ---
 date: 2023-03-01
 featured_image: DSCF0657.jpg
-title: Národní muzeum
+title: Praha Národní muzeum
 #type: gallery
+description: 常规展比较像国内的省博，更偏向地方发展史。The Miracles of Evolution和Windows into Prehistory是很有意思的两个展。
 sort_by: Name
 resources:
-  - src: DSCF0885.jpg
-    title: Selective focus photography of orange and white cat on brown table by Amber Kipp
-  - src: DSCF0886.jpg
-    title: "Gipsy the Cat was sitting on a bookshelf one afternoon and just stared right at me, kinda saying: “Will you take a picture already?”"
-  - src: DSCF0915.jpg
-    title: This is the cutest and loveliest cat I have ever met in my life. He is BU BU, a cat with 6 fingers, which is unusual, but in fact, smarter than any cat. He meows every time he sees me, and jumps to my bed and sits with me.
+  - src: DSCF0657.jpg
+    title: 谁懂，真的很戳我的小熊猫
+  - src: DSCF0612.jpg
+    title: 不敢想象摸到真的我会有多开心
+  - src: DSCF0624.jpg
+    title: 天花板上巨大的章鱼
+  - src: DSCF0624.jpg
+    title: 天花板上巨大的章鱼 
 ---

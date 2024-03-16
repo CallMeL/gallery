@@ -5,8 +5,8 @@ title: Praha
 #type: gallery
 sort_by: Name
 resources:
-  - src: DSCF0387.jpg
-    title: Selective focus photography of orange and white cat on brown table by Amber Kipp
+  - src: DSCF0675.jpg
+    title: view of Václavské náměstí 
   - src: DSCF0886.jpg
     title: "Gipsy the Cat was sitting on a bookshelf one afternoon and just stared right at me, kinda saying: “Will you take a picture already?”"
   - src: DSCF0915.jpg

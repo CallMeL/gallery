@@ -29,13 +29,13 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Národní muzeum</title>
-      <link>//localhost:1313/museum/prag/</link>
+      <title>Museums in Munich</title>
+      <link>//localhost:1313/museum/munich/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
-      <guid>//localhost:1313/museum/prag/</guid><media:content url="//localhost:1313/museum/prag/DSCF0657_hu00b0dd14342c80eaf8f701765e15c2d2_9096809_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>//localhost:1313/museum/munich/</guid><media:content url="//localhost:1313/museum/munich/DSCF0740_hu00b0dd14342c80eaf8f701765e15c2d2_16224383_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/museum/prag/DSCF0657_hu00b0dd14342c80eaf8f701765e15c2d2_9096809_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;img src=&quot;//localhost:1313/museum/munich/DSCF0740_hu00b0dd14342c80eaf8f701765e15c2d2_16224383_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Alte Pinakothek, Pinakothek of the Modern and Staatliches Museum Ägyptischer Kunst&lt;/p&gt;
         </description></item>
     <item>
       <title>Praha</title>
@@ -45,6 +45,15 @@
         <description>
           &lt;img src=&quot;//localhost:1313/travel/praha/DSCF0427_hu00b0dd14342c80eaf8f701765e15c2d2_14799019_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Praha Národní muzeum</title>
+      <link>//localhost:1313/museum/prag/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/museum/prag/</guid><media:content url="//localhost:1313/museum/prag/DSCF0657_hu00b0dd14342c80eaf8f701765e15c2d2_9096809_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/museum/prag/DSCF0657_hu00b0dd14342c80eaf8f701765e15c2d2_9096809_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;常规展比较像国内的省博，更偏向地方发展史。The Miracles of Evolution和Windows into Prehistory是很有意思的两个展。&lt;/p&gt;
         </description></item>
     <item>
       <title>Salzburg</title>

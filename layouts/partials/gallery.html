@@ -32,21 +32,12 @@
           {{ $title = printf "%s <strong> - ISO</strong>: %d <br>" $title . }}
         {{ end }}
 
-        {{ with .Tags.Make }}
-        {{ $title = printf "%s <strong> - Shot On </strong>: %s " $title . }}
-       {{ end }}
-
-        {{ with .Tags.Model }}
-         {{ $title = printf "%s %s <br>" $title . }}
-        {{ end }}
-
       {{ end }}
 
       {{ if ne $image.Title $image.Name }}
         {{ $title = printf "%s <br><br><strong>- Desciption</strong> %s" $title $image.Title }}
       {{ end }}
   
-
       {{ $images = $images | append (dict
         "Name" $image.Name
         "Title" $title

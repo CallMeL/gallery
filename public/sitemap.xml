@@ -17,10 +17,13 @@
     <loc>//localhost:1313/museum/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/museum/prag/</loc>
+    <loc>//localhost:1313/museum/munich/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/travel/praha/</loc>
+    <lastmod>2023-03-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/museum/prag/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/travel/salzburg/</loc>
