@@ -29,7 +29,7 @@ title = "潮边相簿"
   [imaging.exif]
     disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription|Orientation"
+    includeFields = "ImageDescription|Orientation|ExposureTime|Date|CameraModel|ISOSpeedRatings|Model|Make|FocalLengthIn35mmFilm"
 
 [module]
   [module.hugoVersion]

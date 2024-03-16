@@ -4,6 +4,9 @@ featured_image: DSCF0492.jpg
 title: People
 #type: gallery
 sort_by: Name
+menus: "main"
+#type: gallery
+weight: 2
 resources:
   - src: DSCF0885.jpg
     title: Selective focus photography of orange and white cat on brown table by Amber Kipp

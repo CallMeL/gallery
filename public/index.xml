@@ -20,6 +20,15 @@
           &lt;p&gt;Hansestadt Hamburg&lt;/p&gt;
         </description></item>
     <item>
+      <title>People</title>
+      <link>//localhost:1313/people/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/people/</guid><media:content url="//localhost:1313/people/DSCF0492_hu00b0dd14342c80eaf8f701765e15c2d2_10863232_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/people/DSCF0492_hu00b0dd14342c80eaf8f701765e15c2d2_10863232_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Národní muzeum</title>
       <link>//localhost:1313/museum/prag/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
@@ -29,12 +38,21 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>People</title>
-      <link>//localhost:1313/people/</link>
+      <title>Praha</title>
+      <link>//localhost:1313/travel/praha/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
-      <guid>//localhost:1313/people/</guid><media:content url="//localhost:1313/people/DSCF0492_hu00b0dd14342c80eaf8f701765e15c2d2_10863232_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>//localhost:1313/travel/praha/</guid><media:content url="//localhost:1313/travel/praha/DSCF0427_hu00b0dd14342c80eaf8f701765e15c2d2_14799019_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/people/DSCF0492_hu00b0dd14342c80eaf8f701765e15c2d2_10863232_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/travel/praha/DSCF0427_hu00b0dd14342c80eaf8f701765e15c2d2_14799019_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Salzburg</title>
+      <link>//localhost:1313/travel/salzburg/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/travel/salzburg/</guid><media:content url="//localhost:1313/travel/salzburg/DSCF0977_hu00b0dd14342c80eaf8f701765e15c2d2_11642290_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/salzburg/DSCF0977_hu00b0dd14342c80eaf8f701765e15c2d2_11642290_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

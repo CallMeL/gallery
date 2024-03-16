@@ -3,7 +3,9 @@ date: 2023-03-01
 featured_image: DSCF0029.jpg
 title: Hamburg
 description:  Hansestadt Hamburg
-#type: gallery
+menus: "main"
+weight: 2
+featured: true
 sort_by: Name
 resources:
   - src: DSCF0885.jpg
