@@ -5,6 +5,5 @@ title: Hamburg
 description:  Hansestadt Hamburg
 menus: "main"
 weight: 2
-featured: true
 sort_by: Name
 ---
