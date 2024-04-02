@@ -37,11 +37,11 @@ title = "潮边相簿"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
-[menu]
-  [[menu.footer]]
-    name = "blog"
-    url = "https://blog.hannahlin.me"
-    weight = 3
+# [menu]
+#   [[menu.footer]]
+#     name = "blog"
+#     url = "https://blog.hannahlin.me"
+#     weight = 3
 
 [services]
   [services.rss]

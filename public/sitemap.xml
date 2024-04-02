@@ -2,39 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:62085/animals/</loc>
+    <loc>//localhost:62730/animals/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/travel/</loc>
+    <loc>//localhost:62730/travel/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/hamburg/</loc>
+    <loc>//localhost:62730/hamburg/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/people/</loc>
+    <loc>//localhost:62730/people/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/</loc>
+    <loc>//localhost:62730/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/travel/amsterdam/</loc>
+    <loc>//localhost:62730/travel/amsterdam/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/museum/</loc>
+    <loc>//localhost:62730/museum/amsterdam/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:62730/museum/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/museum/munich/</loc>
+    <loc>//localhost:62730/museum/munich/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/travel/praha/</loc>
+    <loc>//localhost:62730/travel/praha/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/museum/prag/</loc>
+    <loc>//localhost:62730/museum/prag/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/travel/salzburg/</loc>
+    <loc>//localhost:62730/travel/salzburg/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:62085/about/</loc>
+    <loc>//localhost:62730/about/</loc>
   </url>
 </urlset>
