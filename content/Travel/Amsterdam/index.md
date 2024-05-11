@@ -4,7 +4,5 @@ featured_image: IMG_4010.jpeg
 title: Amsterdam
 #type: gallery
 sort_by: Name
-featured: true
 resources:
-
 ---
