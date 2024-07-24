@@ -14,9 +14,8 @@ title = "潮边相簿"
   [params.author]
     email = "hannahl271@icloud.com"
     name = "潮潮"
-  # [params.socialIcons]
-  #   mastodon = "https://www.facebook.com/"
-  #   facebook = "https://www.facebook.com/"
+  [params.socialIcons]
+    rss = "https://gallary.hannahlin.me/index.xml/"
 
 [outputs]
   home = ["HTML", "RSS"]
