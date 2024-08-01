@@ -2,5 +2,5 @@
 menus: "main"
 title: Travel
 #type: gallery
-weight: 2
+weight: 1
 ---
