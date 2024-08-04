@@ -35,7 +35,7 @@
       {{ end }}
 
       {{ if ne $image.Title $image.Name }}
-        {{ $title = printf "%s <br><br><strong>- Desciption</strong> %s" $title $image.Title }}
+        {{ $title = printf "%s <br><br><strong>- Description: </strong> %s" $title $image.Title }}
       {{ end }}
   
       {{ $images = $images | append (dict

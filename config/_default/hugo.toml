@@ -1,21 +1,21 @@
-copyright = "© 潮潮"
+copyright = "© 潮潮 | All rights reserved"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120000000s"
-title = "潮边相簿"
+title = "潮边相簿 | Chao's Album"
 
 [params]
   defaultTheme = "dark"
-  description = "如你所见，这是我所见的世界"
+  description = "是的，一切正如你所见"
   title = "潮边相簿"
   [params.author]
     email = "hannahl271@icloud.com"
     name = "潮潮"
   [params.socialIcons]
-    rss = "https://gallary.hannahlin.me/index.xml/"
+    rss = "https://gallery.hannahlin.me/index.xml/"
 
 [outputs]
   home = ["HTML", "RSS"]
