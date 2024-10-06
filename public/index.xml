@@ -14,9 +14,9 @@
       <title>Animals</title>
       <link>//localhost:1313/animals/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>hannahl271@icloud.com (潮潮)</author>
-      <guid>//localhost:1313/animals/</guid><media:content url="//localhost:1313/animals/DSCF1212_hu00b0dd14342c80eaf8f701765e15c2d2_12060213_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/animals/</guid><media:content url="//localhost:1313/animals/DSCF3935_hu5fda6e5df1c4345a61d5bc5156902523_4270782_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/animals/DSCF1212_hu00b0dd14342c80eaf8f701765e15c2d2_12060213_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/animals/DSCF3935_hu5fda6e5df1c4345a61d5bc5156902523_4270782_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;Mostly cats&lt;/p&gt;
         </description></item>
     <item>
@@ -80,6 +80,15 @@
       <guid>//localhost:1313/travel/salzburg/</guid><media:content url="//localhost:1313/travel/salzburg/DSCF0977_hu00b0dd14342c80eaf8f701765e15c2d2_11642290_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/travel/salzburg/DSCF0977_hu00b0dd14342c80eaf8f701765e15c2d2_11642290_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Lahsa</title>
+      <link>//localhost:1313/travel/lahsa/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0200</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/travel/lahsa/</guid><media:content url="//localhost:1313/travel/lahsa/DSCF3191_hu00b0dd14342c80eaf8f701765e15c2d2_10463852_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/lahsa/DSCF3191_hu00b0dd14342c80eaf8f701765e15c2d2_10463852_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
