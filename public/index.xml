@@ -9,7 +9,7 @@
     <managingEditor>hannahl271@icloud.com (潮潮)</managingEditor>
     <webMaster>hannahl271@icloud.com (潮潮)</webMaster>
     <copyright>© 潮潮 | All rights reserved</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals</title>
       <link>//localhost:1313/animals/</link>
@@ -32,9 +32,27 @@
       <title>People</title>
       <link>//localhost:1313/people/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
-      <guid>//localhost:1313/people/</guid><media:content url="//localhost:1313/people/DSCF2297_hu00b0dd14342c80eaf8f701765e15c2d2_15234979_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/people/</guid><media:content url="//localhost:1313/people/DSCF2297_hu1ae477100a7747daf01039144ecd019a_8056529_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/people/DSCF2297_hu00b0dd14342c80eaf8f701765e15c2d2_15234979_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/people/DSCF2297_hu1ae477100a7747daf01039144ecd019a_8056529_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Paris</title>
+      <link>//localhost:1313/travel/paris/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/travel/paris/</guid><media:content url="//localhost:1313/travel/paris/DSCF4935_hu4427b7ad750277568ef7b4a1da54fbcf_6062344_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/paris/DSCF4935_hu4427b7ad750277568ef7b4a1da54fbcf_6062344_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Berlin</title>
+      <link>//localhost:1313/travel/berlin/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0200</pubDate><author>hannahl271@icloud.com (潮潮)</author>
+      <guid>//localhost:1313/travel/berlin/</guid><media:content url="//localhost:1313/travel/berlin/DSCF3077_hu4427b7ad750277568ef7b4a1da54fbcf_2926610_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/berlin/DSCF3077_hu4427b7ad750277568ef7b4a1da54fbcf_2926610_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -83,12 +101,12 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Lahsa</title>
-      <link>//localhost:1313/travel/lahsa/</link>
+      <title>Lhasa</title>
+      <link>//localhost:1313/travel/lhasa/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0200</pubDate><author>hannahl271@icloud.com (潮潮)</author>
-      <guid>//localhost:1313/travel/lahsa/</guid><media:content url="//localhost:1313/travel/lahsa/DSCF3191_hu00b0dd14342c80eaf8f701765e15c2d2_10463852_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>//localhost:1313/travel/lhasa/</guid><media:content url="//localhost:1313/travel/lhasa/DSCF3191_hu00b0dd14342c80eaf8f701765e15c2d2_10463852_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/travel/lahsa/DSCF3191_hu00b0dd14342c80eaf8f701765e15c2d2_10463852_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/travel/lhasa/DSCF3191_hu00b0dd14342c80eaf8f701765e15c2d2_10463852_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
