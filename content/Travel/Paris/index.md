@@ -4,7 +4,7 @@ featured_image: DSCF4935.jpg
 title: Paris
 #type: gallery
 sort_by: Name
-featured: true
+featured: false
 resources:
   - src: DSCF4625.jpeg
     title: New years'eve

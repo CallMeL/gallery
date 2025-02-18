@@ -128,7 +128,7 @@ def add_watermark(directory, logo_path, position, new_directory, padding, scale)
 
 
 
-
+# python assets/watermark/watermark.py 'content/Travel/Barcelona'
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A script to add watermarks to images. Given a directory, this will traverse through all its images and apply the specified watermark. The resulting watermarked images can be saved in the same directory or a new specified directory, maintaining the original directory structure.")
 
