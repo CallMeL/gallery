@@ -7,4 +7,8 @@ menu:
     weight: 90
 ---
 
-I'm sort of a spy for this world.
+I'm sort of a spy.
+
+All rights reserved. No account linked.
+
+For any usage of any picture, contact: BeforeEbbing@proton.me
