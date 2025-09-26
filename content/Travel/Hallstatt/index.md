@@ -4,7 +4,7 @@ featured_image: DSCF1999.jpg
 title: Hallstatt
 #type: gallery
 sort_by: Name
-featured: true
+featured: false
 resources:
   - src: DSCF1985.jpg
     title: 火车上看到的景色，用世外桃源来形容一点也不夸张
