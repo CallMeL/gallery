@@ -4,6 +4,6 @@ featured_image: DSCF5146.jpg
 title: Barcelona
 #type: gallery
 sort_by: Name
-featured: true
+featured: false
 resources:
 ---
