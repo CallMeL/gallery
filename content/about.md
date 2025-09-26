@@ -7,8 +7,13 @@ menu:
     weight: 90
 ---
 
-I'm sort of a spy.
+A self-hosted photography website.
 
-All rights reserved. No account linked.
+Built using [Nico Kaiser’s Hugo Gallery theme](https://github.com/nicokaiser/hugo-theme-gallery).
 
-For any usage of any picture, contact: BeforeEbbing@proton.me
+Photos were captured with a Fujifilm X-T30 15-45, iPhone 12, and Rollei 35TE.
+
+All rights reserved — no accounts linked.
+
+For any inquiries or usage of my photos, reach out at: BeforeEbbing@proton.me
+
