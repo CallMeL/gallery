@@ -1,9 +1,9 @@
 <section class="gallery">
   <div id="gallery" style="visibility: hidden; height: 1px; overflow: hidden">
     {{ $images := slice }}
-    {{ range $image :=  .Resources.ByType "image" }}
-      {{ $rotation := "" }}
+    {{ range $image := where (.Resources.ByType "image") "Params.hidden" "ne" true }}
       {{ $title := "" }}
+      {{ $date := "" }}
       {{ with $image.Exif }}
         {{ with .Tags.Orientation }}
           {{ if or (eq . 8) (eq . 7) }}
@@ -41,15 +41,17 @@
       {{ $images = $images | append (dict
         "Name" $image.Name
         "Title" $title
-        "rotation" $rotation
+        "Date" $date
         "image" $image
+        "Params" $image.Params
         )
       }}
     {{ end }}
+    {{ $publishResources := default true .Params.build.publishResources }}
     {{ range sort $images (.Params.sort_by | default "Name") (.Params.sort_order | default "asc") }}
       {{ $image := .image }}
-      {{ $thumbnail := ($image.Fit (printf "%s %s" "600x600" .rotation)) }}
-      {{ $full := ($image.Fit (printf "%s %s" "1600x1600" .rotation)) }}
+      {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 600x600")) }}
+      {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
       {{ $color := index $thumbnail.Colors 0 | default "transparent" }}
       <a class="gallery-item" href="{{ $image.RelPermalink }}" data-pswp-src="{{ $full.RelPermalink }}" data-pswp-width="{{ $full.Width }}" data-pswp-height="{{ $full.Height }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}" onmouseover="this.title='';" onfocus="this.title='';">
         <img loading="lazy" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" src="{{ $thumbnail.RelPermalink }}" style="background-color: {{ $color }}" alt="{{ .Title }}" />

@@ -1,6 +1,7 @@
 {{ define "main" }}
 <verify hidden rel="me" href="https://o3o.ca/@staytonight">Mastodon</verify>
   {{ partial "title.html" . }}
+  {{ partial "categories.html" }}
   {{ partial "featured.html" . }}
   <section class="galleries">
     {{ range where .Pages "Params.private" "ne" true }}
