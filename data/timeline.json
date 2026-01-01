@@ -1,9 +1,39 @@
 {
   "timeline": [
     {
-      "date": "2023-06-15",
-      "description": "Summer vacation in Berlin, Germany",
+      "date": "2025-09-26",
+      "description": "Upload photos of Istanbul",
+      "album": "/travel/istanbul/"
+    },
+    {
+      "date": "2025-09-26",
+      "description": "Upload photos of Berlin",
       "album": "/travel/berlin/"
+    },
+    {
+      "date": "2025-09-26",
+      "description": "Upload film photos",
+      "album": "/travel/film/"
+    },
+    {
+      "date": "2025-03-17",
+      "description": "Upload photos of Copenhagen",
+      "album": "/travel/copenhagen/"
+    },
+    {
+      "date": "2025-01-18",
+      "description": "Upload photos of Barcelona",
+      "album": "/travel/barcelona/"
+    },
+    {
+      "date": "2025-01-05",
+      "description": "Upload photos of Paris",
+      "album": "/travel/paris/"
+    },
+    {
+      "date": "2024-10-06",
+      "description": "Upload photos of L",
+      "album": "/travel/paris/"
     }
   ]
 }
