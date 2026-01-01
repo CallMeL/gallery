@@ -36,11 +36,15 @@ title = "潮边相簿 | Chao's Album"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
-# [menu]
-#   [[menu.footer]]
-#     name = "blog"
-#     url = "https://blog.hannahlin.me"
-#     weight = 3
+[menu]
+  [[menu.main]]
+    name = "Timeline"
+    url = "/timeline/"
+    weight = 1
+  [[menu.footer]]
+    name = "blog"
+    url = "https://blog.hannahlin.me"
+    weight = 3
 
 [services]
   [services.rss]

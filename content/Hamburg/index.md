@@ -4,7 +4,7 @@ featured_image: DSCF1573.jpg
 title: Hamburg
 description:  Hansestadt Hamburg
 featured: false
-menus: "main"
+# menus: "main"
 weight: 2
 
 sort_by: Name

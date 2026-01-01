@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="timeline-container">
+  <h1 class="timeline-title">{{ .Title }}</h1>
+  <div class="timeline">
+    {{ $timelineData := index site.Data "timeline" }}
+    {{ range $timelineData.timeline }}
+    <div class="timeline-item">
+      {{ if .album }}
+      <a href="{{ .album }}" class="timeline-date-link">
+        <span class="timeline-date">{{ dateFormat "Jan 2, 2006" .date }}</span>
+      </a>
+      {{ else }}
+      <span class="timeline-date">{{ dateFormat "Jan 2, 2006" .date }}</span>
+      {{ end }}
+      <div class="timeline-content">
+        <p class="timeline-description">{{ .description }}</p>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

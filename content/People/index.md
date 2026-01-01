@@ -5,7 +5,7 @@ title: People
 #type: gallery
 sort_by: Name
 sort_order: desc
-menus: "main"
+# menus: "main"
 #type: gallery
 weight: 2
 resources:
