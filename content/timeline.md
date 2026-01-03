@@ -1,5 +1,5 @@
 ---
-title: "Photo Timeline"
+title: "Website Timeline"
 layout: timeline
 description: "A chronological timeline of my photography"
 date: 2023-01-01
